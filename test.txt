@@ -1,4 +1,4 @@
-initial test - master
+initial test - master | modified commit 5 - master
 
 second test - master
 
